@@ -1,0 +1,42 @@
+.c3{
+    margin-left: 4%;
+    margin-top: 20%;
+}
+.lead{
+    margin-left: 4%;
+    color: hsl(260, 23%, 13%);
+    font-weight: bold;
+    margin-top: 10%;
+}
+.btn1{
+    margin-left: 3%;
+    margin-top: 4%;
+}
+.c2{
+    margin-left: 40%;
+}
+.btn2{
+    margin-left: 50%;
+    margin-bottom: 3%;
+}
+.c1{
+    background-color:rgba(0, 0, 0, 0.05);
+}
+ul{
+    margin-left: 30%;
+    gap: 8%;
+    font-size: 150%;
+}
+.navbar-brand{
+    font-size: 200%;
+    font-weight: 700;
+    margin-left: 1%;
+}
+/* .btn{
+    height: 70%;
+} */
+ .z1{
+    font-size: 100%;
+    color:rgb(224, 156, 156);
+    text-decoration: none;
+ }
