@@ -40,3 +40,24 @@ ul{
     color:rgb(224, 156, 156);
     text-decoration: none;
  }
+ .vishal{
+    margin-left: 25%;
+    margin-right: 25%;
+ }
+ .v1{
+    margin-left: 45%;
+    margin-right: 50%;
+    margin-bottom: 10%;
+    /* justify-items:center ;
+    align-items: center; */
+ }
+ .v2{
+    margin-top: 5%;
+ }
+ .a1{
+    text-decoration: none;
+    color: black;
+ }
+ .a2{
+    color: aquamarine;
+ }
